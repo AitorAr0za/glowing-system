@@ -1,0 +1,14 @@
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\bin\Debug\net8.0\EjercicioGigante.exe
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\bin\Debug\net8.0\EjercicioGigante.deps.json
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\bin\Debug\net8.0\EjercicioGigante.runtimeconfig.json
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\bin\Debug\net8.0\EjercicioGigante.dll
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\bin\Debug\net8.0\EjercicioGigante.pdb
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\obj\Debug\net8.0\EjercicioGigante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\obj\Debug\net8.0\EjercicioGigante.AssemblyInfoInputs.cache
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\obj\Debug\net8.0\EjercicioGigante.AssemblyInfo.cs
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\obj\Debug\net8.0\EjercicioGigante.csproj.CoreCompileInputs.cache
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\obj\Debug\net8.0\EjercicioGigante.dll
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\obj\Debug\net8.0\refint\EjercicioGigante.dll
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\obj\Debug\net8.0\EjercicioGigante.pdb
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\obj\Debug\net8.0\EjercicioGigante.genruntimeconfig.cache
+C:\Users\aitor\source\repos\ProgramasComplejos\EjercicioGigante\obj\Debug\net8.0\ref\EjercicioGigante.dll
